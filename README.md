@@ -2,7 +2,7 @@
 
 **An Analysis of Dormant Autonomous System Exploitation in Backbone Internet Infrastructure**
 
-Lu Anne Gammage (Esposito), MS Digital Forensic Science · Backwater Forensics
+L. A. Gammage, MS Digital Forensic Science · Backwater Forensics
 Research Series: Infrastructure Security · Revised 2026-10-20
 
 ---
