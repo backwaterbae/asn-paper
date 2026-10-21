@@ -1,21 +1,21 @@
-MIT License
+# License for the paper
 
-Copyright (c) 2026 backwater
+**How Unassigned Addressing Created a New Attack Vector: An Analysis of Dormant Autonomous System Exploitation in Backbone Internet Infrastructure**
+© 2026 Lu Anne Gammage (Esposito), Backwater Forensics
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+The paper and its web edition (`paper/` and `web/`) are licensed under the
+**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may share and adapt the material for any purpose, provided you give appropriate
+credit, link to the license, and indicate if changes were made.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Summary: https://creativecommons.org/licenses/by/4.0/
+- Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+**Suggested attribution:** Gammage (Esposito), L. A. (2026). *How unassigned addressing
+created a new attack vector* (Revised 2026-10-20). Backwater Forensics. Licensed under CC BY 4.0.
+
+Registry and routing data quoted in the paper (ARIN, RIPE NCC, APNIC, AFRINIC, LACNIC,
+IANA, RIPEstat) remain subject to their providers' own terms of use.
+
+The code in `tools/` and `build/` is licensed separately under the MIT License (`LICENSE`).
