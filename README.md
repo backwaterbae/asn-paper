@@ -1,5 +1,5 @@
 # How Unassigned Addressing Created a New Attack Vector
-** Read: https://github.com/backwaterfx/asn-paper/blob/main/asn-vector-thesis.md
+**Read: https://github.com/backwaterfx/asn-paper/blob/main/asn-vector-thesis.md
 
 **An Analysis of Dormant Autonomous System Exploitation in Backbone Internet Infrastructure**
 
